@@ -1,5 +1,5 @@
 # Olympic-History
-## The modern Olympic Games were from the beginning part of
+The modern Olympic Games were from the beginning part of
 world culture and modern history, reflecting political tensions,
 economic crises, cultural flowering, and technological
 development.
